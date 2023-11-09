@@ -1,0 +1,20 @@
+package its.lez00;
+
+public class Variabili {
+
+	public static void main(String[] args) {
+
+		// Variabili numeriche
+		
+		int a = 5;		//Dichiarazione ed assegnazione sequenziale
+		
+		int b;			//Dichiarazione
+		b = 6;			//Assegnazione
+		
+		//Posso scrivere "syso" e poi premo Ctrl + Barra spaziatrice e Invio
+		System.out.println(a);
+		System.out.println(b);
+		
+	}
+
+}
