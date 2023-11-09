@@ -1,0 +1,25 @@
+package its.lez01.controlli;
+
+public class ControlliSemplici {
+
+	public static void main(String[] args) {
+
+		/*
+		 		if(condizione){
+		 			//Sottoprogramma in caso positivo
+		 		}
+		 		else{
+		 			//Sottoprogramma in caso negativo
+		 		}
+		 */
+		
+		if(true) {
+			System.out.println("Sono nel caso positivo");
+		}
+		else {
+			System.out.println("SOno nel caso negativo");
+		}
+		
+	}
+
+}

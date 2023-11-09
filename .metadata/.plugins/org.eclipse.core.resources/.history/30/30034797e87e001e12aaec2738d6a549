@@ -1,0 +1,11 @@
+package its.lez00;
+
+public class Stringhe {
+
+	public static void main(String[] args) {
+
+		System.out.println("Ciao Giovanni");
+		
+	}
+
+}

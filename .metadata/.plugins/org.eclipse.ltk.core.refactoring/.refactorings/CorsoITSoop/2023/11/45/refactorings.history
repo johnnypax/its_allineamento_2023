@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;CorsoITSoop&apos;&#x0D;&#x0A;- Original project: &apos;CorsoITSoop&apos;&#x0D;&#x0A;- Original element: &apos;CorsoITSoop/src/its.lez01.controlli&apos;" description="Delete element" element1="/src&lt;its.lez01.controlli" element2="/src&lt;its.lez01" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1699526092018" subPackages="false" version="1.0"/>
+</session>

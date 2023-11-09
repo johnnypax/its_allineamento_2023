@@ -1,0 +1,20 @@
+package its.lez00;
+
+public class Stringhe {
+
+	public static void main(String[] args) {
+
+//		System.out.println("Ciao Giovanni");
+		
+		//------ Concatenazione
+		
+//		System.out.println("Ciao" + "Valeria");
+		
+		System.out.println("Il mio numero preferito è: " + 7);
+		System.out.println("Il mio numero preferito è: " + "7");
+		System.out.println(7 + " è il mio numero preferito");
+		
+		
+	}
+
+}

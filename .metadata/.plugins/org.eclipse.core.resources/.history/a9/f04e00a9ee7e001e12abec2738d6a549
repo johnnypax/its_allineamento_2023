@@ -1,0 +1,69 @@
+package its.lez01.controlli;
+
+public class ControlliSemplici {
+
+	public static void main(String[] args) {
+
+		/*
+		 		if(condizione){
+		 			//Sottoprogramma in caso positivo
+		 		}
+		 		else{
+		 			//Sottoprogramma in caso negativo
+		 		}
+		 */
+		
+//		System.out.println("Inizio programma");
+//		
+//		if(false) {
+//			System.out.println("Sono nel caso positivo");
+//		}
+//		else {
+//			System.out.println("SOno nel caso negativo");
+//		}
+//		
+//		System.out.println("Fine programma");
+		
+		//------------------------------------------------
+		
+		// > 	Maggiore
+        // >= 	Maggiore o uguale
+        // < 	Minore
+        // <=	Minore o uguale
+        // ==	Uguale a
+        // !=	Diverso da
+		
+//		System.out.println(5 != 3);
+		
+		//------------------------------------------------
+
+//		int eta = -18;
+//		
+//		if(eta >= 18) {
+//			System.out.println("Sei maggiorenne");
+//		} 
+//		else {
+//			System.out.println("Sei minorenne");
+//		}
+		
+		//------------------------------------------------
+
+		int eta = 15;
+		
+		if(eta > 0) {
+			if(eta >= 18) {
+				System.out.println("Sei maggiorenne");
+			} 
+			else {
+				System.out.println("Sei minorenne");
+			}
+		}
+		else {
+			System.out.println("Errore nell'età");
+		}
+		
+		
+		
+	}
+
+}
