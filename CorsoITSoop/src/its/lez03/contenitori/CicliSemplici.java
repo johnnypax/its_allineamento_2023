@@ -26,7 +26,7 @@ public class CicliSemplici {
 		
 		elenco[0] = "Giovanni";
 		elenco[1] = "Valeria";
-		elenco[2] = 7;
+//		elenco[2] = 7;
 //		elenco[3] = "Marika";		//Problema, out of bounds
 		
 		for(int i=0; i < elenco.length; i++) {
