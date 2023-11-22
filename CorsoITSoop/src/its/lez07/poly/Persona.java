@@ -1,6 +1,6 @@
-package its.lez05.oop.ereditarieta;
+package its.lez07.poly;
 
-public class Persona {
+public abstract class Persona {
 
 	protected String nome;
 	protected String cognome;
@@ -26,10 +26,6 @@ public class Persona {
 	}
 	public void setCognome(String cognome) {
 		this.cognome = cognome;
-	}
-	
-	public void stampaDettaglio() {
-		System.out.println(this.nome + ", " + this.cognome);
 	}
 
 	@Override

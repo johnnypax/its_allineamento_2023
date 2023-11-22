@@ -1,4 +1,4 @@
-package its.lez05.oop.ereditarieta;
+package its.lez07.poly;
 
 public class Studente extends Persona{
 
@@ -28,12 +28,6 @@ public class Studente extends Persona{
 	public void setMatricola(String matricola) {
 		this.matricola = matricola;
 	}
-	
-	@Override
-	public void stampaDettaglio() {
-		System.out.println(super.nome + ", " + super.cognome + ", " + this.matricola);
-	}
-
 
 	@Override
 	public String toString() {
